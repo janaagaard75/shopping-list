@@ -1,7 +1,5 @@
-# Logs
-*.log
-yarn-debug.log*
-yarn-error.log*
+# macOS
+.DS_Store
 
 # Dependency directories
 /node_modules/
@@ -9,5 +7,8 @@ yarn-error.log*
 # Expo
 /.expo/
 
-# macOS
-.DS_Store
+# Logs
+*.log
+yarn-debug.log*
+yarn-error.log*
+
